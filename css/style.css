@@ -56,3 +56,8 @@ input.empty {
 
   margin-left: 192px;
 }
+
+.middlearea{
+
+  max-width: 200px !important;
+}
