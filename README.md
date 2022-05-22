@@ -1,2 +1,3 @@
 # instagrambootstrapclone
-Simple HTML Instagram clone made with Bootstrap.
+Bootstrap ile ödev için oluşturduğum Instagram klonudur.
+www.patika.dev
