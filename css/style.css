@@ -65,3 +65,15 @@ input.empty {
 
   background-color: white !important;
 }
+
+.rightpanel{
+
+  position:fixed;
+  background-color: #fafafa !important;
+  border: none !important;
+
+}
+body{
+background-color: #fafafa !important;
+
+}
